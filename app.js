@@ -1,5 +1,5 @@
 // write code here
 let person;
-let name = "My name is : Mind";
+let name = "Mind";
 person = name;
-alert(person);
+alert(`My name is : ${person}`);
